@@ -63,10 +63,12 @@ footer{
     justify-content: space-around;
 }
 .ig11 div:nth-child(1){
+margin-left:10px;
   margin:0px 10px;
     border-right: 1px solid black;
 }
 .ig11 div:nth-child(2){
+margin-left:10px;
     margin:0px 10px;
       border-right: 1px solid black;
   }
