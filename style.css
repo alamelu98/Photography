@@ -139,7 +139,7 @@ button{
 @media (max-width:768px){
     section{
 display: flex;
-flex-direction:;
+flex-direction:column;
 
 height: 100%;
     }
