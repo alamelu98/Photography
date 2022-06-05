@@ -103,6 +103,7 @@ margin-top:10px;
 border-radius: 9px;
 flex-basis: 120px;
 height:20%;
+    cursor:pointer
 box-shadow: 6px 6px 10px rgba(11, 32, 66, 0.765);
 }
 #contact{
